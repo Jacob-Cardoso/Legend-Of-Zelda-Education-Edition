@@ -1,4 +1,4 @@
-#Legend Of Zelda Education Edition
+# Legend Of Zelda Education Edition
 
 1.The first thing required to run and play the game is to download and install Python at https://www.python.org/downloads/.
 
